@@ -5,7 +5,7 @@
 
     <groupId>com.javawords</groupId>
     <artifactId>gae-jsf-utils</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <packaging>jar</packaging>
 
     <name>gae-jsf-utils</name>
@@ -47,14 +47,12 @@
         <dependency>
             <groupId>com.sun.faces</groupId>
             <artifactId>jsf-api</artifactId>
-<!--            <version>2.0.4-b09</version>-->
-            <version>2.0.6</version>
+            <version>2.0.9</version>
         </dependency>
         <dependency>
             <groupId>com.sun.faces</groupId>
             <artifactId>jsf-impl</artifactId>
-<!--            <version>2.0.4-b09</version>-->
-            <version>2.0.6</version>
+            <version>2.0.9</version>
         </dependency>
 
         <dependency>
